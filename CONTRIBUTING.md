@@ -80,8 +80,8 @@ def check_connection_time(layover: Dict, is_schengen_exit: bool) -> bool:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/flight-search-wro-israel.git
-cd flight-search-wro-israel
+git clone https://github.com/YOUR_USERNAME/flight-search.git
+cd flight-search
 
 # Create virtual environment (recommended)
 python -m venv venv

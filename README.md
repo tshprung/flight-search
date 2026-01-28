@@ -36,8 +36,8 @@ Automated flight search for Wrocław (WRO) to Tel Aviv/Haifa with intelligent co
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/flight-search-wro-israel.git
-cd flight-search-wro-israel
+git clone https://github.com/YOUR_USERNAME/flight-search.git
+cd flight-search
 
 # Install dependencies
 pip install -r requirements.txt
@@ -124,7 +124,7 @@ Connections (1):
 ## 🗂️ Project Structure
 
 ```
-flight-search-wro-israel/
+flight-search/
 ├── flight_search_poc.py    # Main search script
 ├── test_setup.py            # Setup verification
 ├── config.ini               # Configuration file

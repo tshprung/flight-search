@@ -95,5 +95,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Fixed**: Bug fixes
 - **Security**: Security improvements
 
-[Unreleased]: https://github.com/YOUR_USERNAME/flight-search-wro-israel/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/YOUR_USERNAME/flight-search-wro-israel/releases/tag/v1.0.0
+[Unreleased]: https://github.com/YOUR_USERNAME/flight-search/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/YOUR_USERNAME/flight-search/releases/tag/v1.0.0
