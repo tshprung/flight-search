@@ -1,0 +1,7 @@
+# Core dependencies
+requests>=2.31.0
+
+# Optional: For future enhancements
+# python-dotenv>=1.0.0  # For .env file support
+# schedule>=1.2.0       # For automated scheduling
+# pandas>=2.0.0         # For data analysis

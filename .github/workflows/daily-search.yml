@@ -1,0 +1,43 @@
+# GitHub Actions Workflow - Phase 3 (Automated Monitoring)
+# This file is a placeholder for future automated daily searches
+
+name: Daily Flight Search
+
+# Disabled for Phase 1 - Enable in Phase 3
+# on:
+#   schedule:
+#     - cron: '0 8 * * *'  # Run at 8 AM UTC daily
+#   workflow_dispatch:  # Allow manual trigger
+
+# jobs:
+#   search-flights:
+#     runs-on: ubuntu-latest
+#     
+#     steps:
+#     - name: Checkout code
+#       uses: actions/checkout@v3
+#     
+#     - name: Set up Python
+#       uses: actions/setup-python@v4
+#       with:
+#         python-version: '3.11'
+#     
+#     - name: Install dependencies
+#       run: |
+#         pip install -r requirements.txt
+#     
+#     - name: Run flight search
+#       env:
+#         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+#       run: |
+#         python flight_search_poc.py
+#     
+#     - name: Send email alert (if price drop)
+#       # Implementation in Phase 3
+#       run: echo "Email alerts coming in Phase 3"
+
+# To enable in Phase 3:
+# 1. Uncomment this workflow
+# 2. Add SERPAPI_KEY to GitHub Secrets
+# 3. Implement price tracking logic
+# 4. Add email sending functionality
